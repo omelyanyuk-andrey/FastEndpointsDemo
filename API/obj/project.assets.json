@@ -1520,26 +1520,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andr\\.nuget\\packages\\": {}
+    "/Users/andreyom/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\FastEndpointsDemo\\API\\API.csproj",
+      "projectUniqueName": "/Applications/WorkShop/FastEndpointsDemo/API/API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\Programming\\FastEndpointsDemo\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Andr\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\FastEndpointsDemo\\API\\obj\\",
+      "projectPath": "/Applications/WorkShop/FastEndpointsDemo/API/API.csproj",
+      "packagesPath": "/Users/andreyom/.nuget/packages/",
+      "outputPath": "/Applications/WorkShop/FastEndpointsDemo/API/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\Andr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/andreyom/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.pkg.github.com/bilberry-blend/index.json": {}
       },
@@ -1558,8 +1557,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net9.0": {
@@ -1601,7 +1599,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

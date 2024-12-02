@@ -14,7 +14,6 @@ public class DemoDbContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
 
-        // Optional: Seed data
         modelBuilder
             .Entity<ArticleEntity>()
             .HasData(
